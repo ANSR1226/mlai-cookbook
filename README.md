@@ -10,9 +10,10 @@ Inside, you will find my hands-on implementations, deep dives, and practical exp
 
 ## 🗺️ Navigation Map
 
-Explore the different realms of this playground:
+#### Explore the different realms of this playground:
 
-*   **Classical Machine Learning** – 
+##### **Classical Machine Learning** – 
+
 [Supervised Machine Learning](supervised)
 
 [Unsupervised Machine Learning](unsupervised)
